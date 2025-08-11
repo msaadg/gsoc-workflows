@@ -99,7 +99,7 @@ class TravelItinerary(BaseModel):
    pip install llama-index-llms-google-genai llama_index
    
    # For context caching and file upload (Lecture Q&A Chatbot)
-   pip install google-generativeai
+   pip install google-genai
    
    # For data models and tool calling
    pip install pydantic

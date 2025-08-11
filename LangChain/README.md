@@ -70,6 +70,9 @@ An interactive data analysis assistant that executes Python code and generates v
    ```bash
    # Core LangChain and Gemini integration
    pip install langchain-google-genai langchain-core
+
+   # For GenAITool
+   pip install google-generativeai
    
    # For structured output and data models
    pip install pydantic
